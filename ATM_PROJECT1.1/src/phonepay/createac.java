@@ -165,7 +165,7 @@ public class createac extends JFrame implements  ActionListener{
   			e1.printStackTrace();
   		   }
   	    	   j5.dispose();
-  	        	new page0(i1); //open transaction page	
+  	        	new START(i1); //open transaction page	
   	       }
     
     }

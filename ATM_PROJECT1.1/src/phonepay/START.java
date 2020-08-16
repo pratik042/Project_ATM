@@ -20,7 +20,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-public class page0  extends JFrame implements ActionListener
+public class START  extends JFrame implements ActionListener
 {
 	  JFrame j0;
 	 JLabel l1,l2,l3,l4;
@@ -32,7 +32,7 @@ public class page0  extends JFrame implements ActionListener
 		  static int i1,i2,c=0;
 		  
 	 
-      public page0(int i1)
+      public START(int i1)
 	 {
     	  this.i1=i1;
     	   j0=new JFrame();
@@ -111,7 +111,7 @@ public class page0  extends JFrame implements ActionListener
 		}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-          page0 m=new page0(i1);
+		START m=new START(i1);
 
 	}
 	public void actionPerformed(ActionEvent e)
