@@ -31,7 +31,7 @@ public class page6 extends JFrame implements ActionListener{
     PreparedStatement ps4;
 	ResultSet rs1;
     String name2,sql;
-    
+      
 	 public page6(int i)
 	 {
 		this.i1=i1;
