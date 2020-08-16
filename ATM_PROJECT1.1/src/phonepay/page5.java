@@ -34,7 +34,7 @@ public class page5 extends JFrame implements ActionListener{
 	
 	static int i1;
 	
-	
+	  
 	public page5(int i1)
 	{
 		this.i1=i1;
