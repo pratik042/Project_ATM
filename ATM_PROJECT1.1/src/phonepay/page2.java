@@ -26,7 +26,7 @@ public class page2 extends JFrame implements ActionListener {
         j2.setLayout(null);// this shd be set null
         j2.setTitle("language page");// title 
 	  
-  	
+  	 
         
 		l2=new JLabel(); //when button is clicked this or here will change into recharge
 		l3=new JLabel(" select language");
