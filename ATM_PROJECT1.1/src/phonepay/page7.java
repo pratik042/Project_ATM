@@ -32,7 +32,7 @@ public class page7 extends JFrame implements ActionListener {
 	public page7 (int i1)
 	{
 		this.i1=i1;
-
+ 
 		j1=new JFrame();
 		j1.setVisible(true);
 		j1.setBounds(0, 0, 1500, 1000);
