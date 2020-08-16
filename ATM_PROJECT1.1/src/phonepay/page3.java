@@ -37,7 +37,7 @@ public class page3 extends JFrame implements ActionListener {
         b2=new JButton("WITHDRAW");
         b3=new JButton("CHECK BALANCE");
         b4=new JButton("STATEMENT");
-        
+          
 		l3.setBounds(0, 0, 1500,1000);
 	    
 	    b1.setBounds(1000, 200,150,50);
